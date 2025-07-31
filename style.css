@@ -255,7 +255,7 @@ section#footer {
 /* about section */
 .about_content {
   padding: var(--space-xl) 0;
-  transform: skewX(-10deg);
+  transform: skewX(0deg);
 }
 .about_figure {
   padding: var(--space-xl) 0;
